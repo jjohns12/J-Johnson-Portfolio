@@ -158,3 +158,8 @@ h2,h3{ position: relative;
         #bio a:hover, #personal a:hover, h3 a:hover{
             color:#DF731B;
         }
+
+#slide{
+    position:relative;
+    top:20px;
+}
