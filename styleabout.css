@@ -123,7 +123,7 @@ h2,h3{ position: relative;
   img{
       border: 5px solid rgb(16, 238, 208);
       position: relative;
-      top:100px;
+      top:120px;
       left:300px;
   }
 
@@ -159,7 +159,4 @@ h2,h3{ position: relative;
             color:#DF731B;
         }
 
-#slide{
-    position:relative;
-    top:20px;
-}
+
