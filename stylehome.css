@@ -1,7 +1,9 @@
 body{
     width: 100%;
-    margin:auto;
+    margin:0 auto;
+    padding:0;
     background-image: url("bbr.jpg");
+        
 }
 
 .container{
